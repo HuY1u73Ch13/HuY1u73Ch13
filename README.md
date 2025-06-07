@@ -1,7 +1,7 @@
 # 💫About Me :
 🎓 Current Status: Student seeking a security job.
 
-🔍 Interests: Binary Exploitation and Web Exploitation.
+🔍 Interests: Forensics and Web Exploitation.
 
 💡 Passion: I have a passion for coding and algorithms, with my journey beginning in the last year of 2020 when I learned C++. Throughout my academic career, I've been recognized as an excellent student at the school, city, and provincial levels. Upon entering university, my interests deepened, leading me to explore Information Assurance and Cybersecurity and delve into cybersecurity research.
 
